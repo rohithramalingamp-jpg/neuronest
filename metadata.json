@@ -1,0 +1,6 @@
+{
+  "name": "Neuronest Training Institute",
+  "description": "Transform learning gaps into stepping stones with Neuronest's Certified Remedial Educator program. Build practical skills in remedial education, assessment, intervention, classroom management and inclusive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
